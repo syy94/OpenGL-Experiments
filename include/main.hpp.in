@@ -1,0 +1,2 @@
+#define VERSION_MAJOR @OpenGL-Experiments_VERSION_MAJOR@
+#define VERSION_MINOR @OpenGL-Experiments_VERSION_MINOR@
